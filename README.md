@@ -4,6 +4,6 @@ For privacy reasons, this repository doesn't contain the code allowing:
 - **model.ipynb**: train a model on the resulting dataset to predict the MOS for each sample.
 - **demo.py**: evaluate the perceived quality of speech samples.
 
-But the [report](https://github.com/helleweiss/speech_quality/blob/main/Master_Project_Report.pdf) is public!
+But the [report](https://github.com/helleweiss/speech_quality/blob/main/report.pdf) is public!
 
 This project is a result of an internship at Logitech. A publication may follow.
